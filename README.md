@@ -1,0 +1,1 @@
+# ecmaScript6
